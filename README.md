@@ -1,11 +1,11 @@
 # PDF-Gaming
-Game PDFs from places like pdfgames.com. I did not make the games. I made the launcher HTML file to launch the games in Chrome instead of gallery(Can't run games.) The launcher lets you add your own PDF games. Make sure you download the games you wish to use. 
+Game PDFs from places like pdfgames.com. I did not make the games. I made the launcher HTML file to launch the games in Chrome instead of gallery to insure they work properly. There may be problems if you open the PDF files in gallery. The launcher lets you add your own PDF games. Make sure you download the games you wish to use. 
 
 Current list of games:  
-	Breakout  
-	Calculator  
-	Checkers  
-	Doom  
-	Flappy Bird  
-	Linux  
-	Pdftris   
+Breakout  
+Calculator  
+Checkers  
+Doom  
+Flappy Bird  
+Linux  
+Pdftris   
