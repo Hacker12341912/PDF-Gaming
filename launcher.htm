@@ -92,7 +92,7 @@ Download more games here: <a href="https://github.com/Hacker12341912/PDF-Gaming"
 
 <button class="action-btn" style="background: #10b981;" onclick="addNewLink()">+ Add New PDF</button>
 <button class="action-btn" onclick="saveChanges()">Save All Changes</button>
-<button class="reset-btn" onclick="resetDefaults()">Reset to Original 8 Games</button>
+<button class="reset-btn" onclick="resetDefaults()">Reset to Original Games</button>
 </div>
 
 <script>
@@ -105,6 +105,7 @@ const defaultLinks = [
 { name: "Calculator", file: "calculator.pdf", visible: true },
 { name: "Breakout", file: "breakout.pdf", visible: true },
 { name: "Doom", file: "doom.pdf", visible: true }
+{ name: "Sudoku", file: "sudoku.pdf", visible: true }
 ];
 
 let links = JSON.parse(localStorage.getItem('pdf-arcade-links')) || [...defaultLinks];
